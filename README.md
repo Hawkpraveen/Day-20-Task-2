@@ -1,6 +1,6 @@
 This repo contains the day 20 task-2 of the MERN Stack.
 
-Task-Built a page where user can enter a word for its meaning and audio for hearing aid.
+Task-Built a dictionary page with audio for pronounciation aid.
 
 Using Fetch method and Promise handling by then.
 
